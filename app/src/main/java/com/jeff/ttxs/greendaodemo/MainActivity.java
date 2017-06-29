@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity
 
     private void inntData()
     {
+        //这是我测试是否已经关联
         for (int i = 0; i < 20; i++)
         {
             mTextStrings.add("我是第"+i+"条-----"+"年龄："+String.valueOf(20+i));
